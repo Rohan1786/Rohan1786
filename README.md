@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+## Rohan Pawar Here 
 
-**Rohan1786/Rohan1786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#✨ Hello, I'm Ethusiasi, a passionate creator with a spark for the MERN stack and a new journey into the world of TypeScript! ✨#
+
+As I code, I weave magic with MongoDB, Express.js, React, and Node.js, creating dynamic, responsive web applications. But my excitement doesn’t stop there—I’m diving deeper, now exploring the power and precision of TypeScript to make my code not only functional but flawless!
+
 
 - 🔭 I’m currently working on Majore Project
 - 🌱 I’m currently learning PostMan API
