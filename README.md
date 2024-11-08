@@ -12,3 +12,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I m not bored person 😄
 
+https://badgr.com/public/assertions/ubukjicZS_Oe1TZJRQnx7A?identity__email=rp9522203@gmail.com
