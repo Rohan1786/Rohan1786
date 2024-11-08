@@ -12,4 +12,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I m not bored person 😄
 
-https://badgr.com/public/assertions/ubukjicZS_Oe1TZJRQnx7A?identity__email=rp9522203@gmail.com
+
+![Postman - Postman API Fundamentals Student Expert - 2024-11-06](https://github.com/user-attachments/assets/64b96294-9b91-4dc2-9a39-53081316699f)
