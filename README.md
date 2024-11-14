@@ -5,7 +5,8 @@
 
 #✨ Hello, I'm Ethusiasi, a passionate creator with a spark for the MERN stack and a new journey into the world of TypeScript! ✨#
 
-![image](https://github.com/user-attachments/assets/7d7fbac8-bddf-4896-bbf3-a8b39e85e7da)   ![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7d7fbac8-bddf-4896-bbf3-a8b39e85e7da)   ![image](https://github.com/user-attachments/assets/2fddd36a-ae30-4b32-be8b-059bae9461b4)
+
 
 
 
