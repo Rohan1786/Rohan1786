@@ -4,9 +4,9 @@
 
 
 #✨ Hello, I'm Ethusiasi, a passionate creator with a spark for the MERN stack and a new journey into the world of TypeScript! ✨#
-<img src="![image](https://github.com/user-attachments/assets/4fa4a5ae-4f99-487f-897a-01307681da2c)"
-style="height:22px width:20px padding:22px "
-/>
+
+![image](https://github.com/user-attachments/assets/7d7fbac8-bddf-4896-bbf3-a8b39e85e7da)
+
 
 
 As I code, I weave magic with MongoDB, Express.js, React, and Node.js, creating dynamic, responsive web applications. But my excitement doesn’t stop there—I’m diving deeper, now exploring the power and precision of TypeScript to make my code not only functional but flawless!
